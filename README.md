@@ -14,3 +14,7 @@ DOM
 ARRAY TEMPORAL
 LOCALHOST
 ```
+
+git remote add origin https://github.com/Dianacoquette/pwa-septiembre2026.git
+git branch -M main
+git push -u origin main
